@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+}
+
+.header {
+    display: flex;
+    height: 12vh;
+    align-content: left;
+    padding: 14px;
+    background-color: rgb(191, 189, 189);
+}
+.blue-square {
+    height: 8vh;
+    width: 8vh;
+    background-color: rgb(75, 146, 232);
+    align-self: center;
+}
+.main {
+    padding: 22px;
+    display: flex;
+    height: 25vh;
+    justify-content: space-around;
+    flex-direction: column;
+}
+.par1 {
+    font-size: 12px;
+    margin: 5px;
+}
+.par2 {
+    font-size: 12px;
+}
+.section1 {
+    height: 25vh;
+    background-color: rgb(75, 133, 208);
+}
+.section2 {
+    height: 25vh;
+    background-color: rgb(69, 194, 186);
+}
+.section3 {
+    height: 25vh;
+    background-color: rgb(179, 225, 111);
+}
+.section4 {
+    height: 25vh;
+    background-color: rgb(229, 211, 53);
+}

@@ -1,0 +1,31 @@
+* {
+    margin: 0px;
+}
+
+.header {
+    height: 15vh;
+    background-color: rgb(57, 57, 57);
+}
+.main-row {
+display: flex;
+height: 80vh;
+}
+
+.left-grey {
+    width: 15vw;
+    background-color: rgb(214, 214, 214);
+}
+.center-white {
+    display: flex;
+    flex-direction: column-reverse;
+    flex-grow: 1;
+    
+}
+.right-grey {
+    width: 15vw;
+    background-color:rgb(214, 214, 214);
+}
+.black-div {
+    height: 8vh;
+    background-color: rgb(18, 18, 18);
+}
